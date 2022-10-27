@@ -1,16 +1,13 @@
-### Hi there 👋
+<p>Hi, 👋  I'm 47！
 
-<!--
-**foursevenlove/foursevenlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🏫 I’m currently a postgraduate student in **<a href="https://www.ecnu.edu.cn/">East China Normal University</a>**, majoring in **Data Science and Engineering**.
+- 📚 I’m interested in  *Cloud Native*/*DevOps*/*Reinforcement learning*.
+- 🏀 I love playing basketball and [Stephen Curry](https://en.wikipedia.org/wiki/Stephen_Curry) is my favorite player.
+- 📮 You can get in touch with me by email at [foursevenlove@gmail.com](mailto:foursevenlove@gmail.com) .
+- 💻 Here is my another site [blog.foursevenlove.top](http://blog.foursevenlove.top) .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> "I can do all things!"  --Stephen Curry
